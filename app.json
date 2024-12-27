@@ -1,8 +1,8 @@
 {
-  "name": "KHAN-AI",
+  "name": "King",
   "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
-  "logo": "https://raw.githubusercontent.com/JawadYTX/KHAN-DATA/refs/heads/main/logo/KHAN.png",
-  "keywords": ["khan-ai"],
+  "logo": "https://files.catbox.moe/gkvigf.jpeg",
+  "keywords": ["king"],
   "success_url": "/",
 
     "stack": "container",
@@ -10,19 +10,19 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "uuQUESQL#_3upgRdtGDt35PqsTuzw-l6JXwM1d7H_yQmhMohZCK0"
     },  
     
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": false,
-      "value": "https://files.catbox.moe/x3bdmi.jpg"
+      "value": "https://files.catbox.moe/gkvigf.jpeg"
     }, 
     
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> Zinda Hun Yar *KHAN-AI*⚡"
+      "value": "> Zinda Hun Yar *Abdullah*⚡"
     },
     
     "PREFIX": {
@@ -34,7 +34,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
     
@@ -67,45 +67,45 @@
     "AUTO_STATUS_SEEN": {
       "description": "Make it true for automatic status seen.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY KHAN-AI 🖤*"
+      "value": "*SEEN YOUR STATUS BY King-AI 🖤*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "Abdullah"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "92310344XXXX"
+      "value": "923221096675
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KHAN-AI"
+      "value": "King"
 
       }, 
 
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "true"
+      "value": "false"
       
     },
     
@@ -118,13 +118,13 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*©Powered by Muzan Tech*"
     },
 
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     
     "AUTO_RECORDING": {
